@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <script src="https://cdn.jsdelivr.net/npm/dayjs@1.11.3/dayjs.min.js"
+        integrity="sha256-iu/zLUB+QgISXBLCW/mcDi/rnf4m4uEDO0wauy76x7U=" crossorigin="anonymous"></script>
+    <title>Weather App</title>
+</head>
+
+<body>
+    <header>Check Your Weather!</header>
+    <section>
+        <form>
+            <input name="search" id="cities" cols="30" rows="10" placeholder="Search a location"></input>
+            <button id="search">SEARCH</button>
+            <div id="history">
+            </div>
+        </form>
+        <article id="forecast">
+            <div id="current">
+                <h1 id="city"></h1>
+                <img id=icon>
+                <h2 id="date"></h2>
+                <h2 id="temp"></h2>
+                <h3 id="humidity"></h3>
+                <h3 id="wind"></h3>
+            </div>
+        </article>
+    </section>
+    <section id="card-container">
+    <div class="cards" id="day1"></div>
+    <div class="cards" id="day2"></div>
+    <div class="cards" id="day3"></div>
+    <div class="cards" id="day4"></div>
+    <div class="cards" id="day5"></div>
+</section>
+    <script src="./script.js"></script>
+</body>
+
+</html>
