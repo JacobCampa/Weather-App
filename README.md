@@ -18,19 +18,16 @@ No installation needed, just go to the deployed webpage here:
 
 ## Usage
 
-When opening the application, you will be greeted eith the following webpage:
+When opening the application, you will be greeted with the following webpage:
+
+![page load](assets/images/Screenshot%20(21).png)
 
 
 You will be able to insert a city of your choice and when searched, the information will be displayed accordingly.
 
+![search results](assets/images/Screenshot%20(22).png)
 
 You can search another city if you like, and each one will provide a button below the search bar that when clicked will reproduce the information again without having to retype the city in. You can search any city you think of and continue to create history buttons.
-
-syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Credits
 
@@ -40,4 +37,4 @@ Github
 
 ## License
 
-Refer to the repostory for more information.
+N/A
