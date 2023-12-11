@@ -4,7 +4,7 @@
 
 The prurpose of this application was to understand and learn how to link an api to working app and retrieve/display the data returned. the project in perticular was catered to a weather app and being able to provide the user data about the location they choose. Creating this app helped me understand how to see the data returned and manipulate it to populate the page with the given information i want. While creating this application i learned a lot about APIs and how to structure them to create a working app. I will use this knowledge for future projects and become more familiar with these practices.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
